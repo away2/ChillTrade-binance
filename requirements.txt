@@ -1,0 +1,4 @@
+PyQt5
+twisted
+python-binance
+pandas
