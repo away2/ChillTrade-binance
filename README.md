@@ -2,6 +2,8 @@
 
 Template trading bot for futures market on binance exchange.
 
+![ChillTrade-binance](https://github.com/away2/ChillTrade-binance/blob/main/screen.jpg)
+
 ## Features
 - GUI on PyQt5
 - logging
